@@ -27,7 +27,7 @@ body {
 }
 
 .container {
-  height: 100vw;
+  height: 50vw;
   display: grid;
   grid-template-columns: 50% 50%;
 }
